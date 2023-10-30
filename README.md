@@ -31,9 +31,7 @@ GeoTracker is a user script that enhances your GeoGuessr experience by providing
 
 ## Installation
 
-# Direct Installation
-
-url greasyfork
+# [Direct Install](https://github.com/ottersek/geotracker/raw/main/geotracker.user.js)
 
 # Manual Installation
 

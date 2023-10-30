@@ -17,8 +17,11 @@ GeoTracker is a user script that enhances your GeoGuessr experience by providing
 # Features
 
 📍 Get the exact coordinates of a location in GeoGuessr.
+
 🌆 Discover the precise postal address, city, and more.
+
 🗺️ Open the exact location on Google Maps with a single click.
+
 🌟 Enhance your GeoGuessr experience and improve your guessing skills.
 
 # How to Use
